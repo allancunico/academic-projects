@@ -19,3 +19,11 @@ Simulador de memória cache desenvolvido em linguagem C para estudo de arquitetu
 📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/simulador-cache-C)
 
 ---
+
+## A* - Jogo dos 8 Números
+
+Solucionador automático do 8-puzzle com o algoritmo A*, comparando as heurísticas de Manhattan e Hamming.
+
+📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/a-estrela-8-puzzle)
+
+---
