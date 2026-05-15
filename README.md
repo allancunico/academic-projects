@@ -1,29 +1,29 @@
-# 📚 Projetos Acadêmicos
+# 📚 Academic Projects
 
-Repositório com alguns trabalhos desenvolvidos durante minha graduação em Ciências da Computação pela Universidade de Caxias do Sul (UCS).
-
----
-
-## Algoritmos e Estruturas de Dados II - Índices para Arquivos de Dados
-
-Implementação de estruturas de índice para manipulação eficiente de arquivos de dados.
-
-📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/trabalho-1-algoritmos-e-estruturas-de-dados-II)
+Repository containing projects developed during my Computer Science degree at the University of Caxias do Sul (UCS).
 
 ---
 
-## Simulador de Cache (C)
+## Algorithms and Data Structures II — Data File Indexing
 
-Simulador de memória cache desenvolvido em linguagem C para estudo de arquitetura de computadores.
+Implementation of indexing structures for efficient data file manipulation.
 
-📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/simulador-cache-C)
+📁 [Open project](https://github.com/allancunico/projetos-academicos/tree/main/trabalho-1-algoritmos-e-estruturas-de-dados-II)
 
 ---
 
-## A* - Jogo dos 8 Números
+## Cache Simulator (C)
 
-Solucionador automático do 8-puzzle com o algoritmo A*, comparando as heurísticas de Manhattan e Hamming.
+Cache memory simulator developed in C for computer architecture studies.
 
-📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/a-estrela-8-puzzle)
+📁 [Open project](https://github.com/allancunico/projetos-academicos/tree/main/simulador-cache-C)
+
+---
+
+## A* — 8 Puzzle Solver
+
+Automatic 8-puzzle solver using the A* algorithm, comparing Manhattan and Hamming heuristics.
+
+📁 [Open project](https://github.com/allancunico/projetos-academicos/tree/main/a-estrela-8-puzzle)
 
 ---
